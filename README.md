@@ -1,4 +1,4 @@
-# Computer vision project of course DataScience Yandex.Praktikum
+# Computer vision project of course DataScience Yandex.Praktikum / Проект по Computer vision
 Libraries/библиотеки:
  - pandas
  - tensorflow
